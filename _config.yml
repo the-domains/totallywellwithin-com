@@ -32,3 +32,6 @@ purpose:
   - type: contact
     url: 'tel:9492784600'
     label: Call 9492784600
+  - type: external
+    url: 'http://www.totallywellwithin.com'
+    label: 'http://www.totallywellwithin.com'
