@@ -28,3 +28,7 @@ navigation:
 title: 'Check your Reserves '
 content: []
 description: 'Find out what deficiencies might be impacting your bottom line. '
+purpose:
+  - type: contact
+    url: 'tel:9492784600'
+    label: Call 9492784600
