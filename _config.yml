@@ -1,15 +1,6 @@
-name: TotallyWellWithin.com
-analytics: {}
+typography_spectrum: 0.5
 content_rating:
   adult: false
-github: true
-description: 'Find out what deficiencies might be impacting your bottom line. '
-opengraph: {}
-title: 'Check your Reserves '
-author:
-  name: Wendy Pappas
-  url: www.totallywellin.com
-  email: wendy@totallywellwithin.com
 color:
   lightness: 0.09097869696351203
   brandColors:
@@ -21,6 +12,19 @@ color:
   saturation: 0.560197379104839
   brandStrength: 0.6766742997981315
   rhythmicContrast: 0.9077085465909235
-content: []
+github: true
+opengraph: {}
 layout_spectrum: 0.5
-typography_spectrum: 0.5
+analytics: {}
+author:
+  name: Wendy Pappas
+  url: www.totallywellin.com
+  email: wendy@totallywellwithin.com
+name: TotallyWellWithin.com
+navigation:
+  - name: 'Colonic hydration, cleansing and supplementation.'
+    url: 'https://www.totallywellwithin.com'
+    type: external
+title: 'Check your Reserves '
+content: []
+description: 'Find out what deficiencies might be impacting your bottom line. '
